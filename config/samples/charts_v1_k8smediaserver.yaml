@@ -8,9 +8,9 @@ spec:
     image_tag: latest
     ingress:
       ingressClassName: ""
-    ingress_host: k8s-mediaserver.k8s.test
+    ingress_host: k8s-mediaserver.apps.clu-shift.9nhr.p1.openshiftapps.com
     pgid: 1000
-    plex_ingress_host: k8s-plex.k8s.test
+    plex_ingress_host: k8s-plex.apps.clu-shift.9nhr.p1.openshiftapps.com
     puid: 1000
     storage:
       customVolume: false
