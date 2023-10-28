@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 
 general:
-  ingress_host: k8s-mediaserver.k8s.test
-  plex_ingress_host: k8s-plex.k8s.test
+  ingress_host: k8s-mediaserver.apps.clu-shift.9nhr.p1.openshiftapps.com
+  plex_ingress_host: k8s-plex.apps.clu-shift.9nhr.p1.openshiftapps.com
   image_tag: latest
   #UID to run the process with
   puid: 1000
